@@ -12,6 +12,9 @@ Arduino:
 - [ ] establish wifi comms between the game piece to the game controller
 - [ ] send peice information to the game controller (position on the board and game piece id)
 - [ ] send data to AI
+- [ ] screen for game controller?
+- [ ] configure touch pad to work with game controller
+
 
 
 Mechanical:
